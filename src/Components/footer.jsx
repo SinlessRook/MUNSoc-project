@@ -15,7 +15,7 @@ const Footer = () => {
       textAlign: 'center',
       marginTop: '10vh',
     }}>
-      All Rights Reserved © 2022
+      All Rights Reserved © 2029
     </footer>
   );
 }
