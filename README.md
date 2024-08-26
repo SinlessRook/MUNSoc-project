@@ -6,7 +6,6 @@ MUNSoc is a project built with React and Vite.
 
 - **Modern UI**: Built with React and Material-UI for a sleek, responsive design.
 - **Fast Development**: Powered by Vite for quick setup and fast builds.
-- **Scalable Architecture**: Organized component structure to facilitate easy scaling and maintenance.
 
 ## Getting Started
 
