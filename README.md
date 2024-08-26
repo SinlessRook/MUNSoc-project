@@ -1,7 +1,3 @@
-Here's a basic README template for your MUNSoc project built with React and Vite. You can adjust it to fit the specifics of your project:
-
----
-
 # MUNSoc
 
 MUNSoc is a project built with React and Vite.
@@ -10,7 +6,6 @@ MUNSoc is a project built with React and Vite.
 
 - **Modern UI**: Built with React and Material-UI for a sleek, responsive design.
 - **Fast Development**: Powered by Vite for quick setup and fast builds.
-- **Scalable Architecture**: Organized component structure to facilitate easy scaling and maintenance.
 
 ## Getting Started
 
