@@ -1,7 +1,3 @@
-Here's a basic README template for your MUNSoc project built with React and Vite. You can adjust it to fit the specifics of your project:
-
----
-
 # MUNSoc
 
 MUNSoc is a project built with React and Vite.
